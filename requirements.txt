@@ -30,7 +30,7 @@ pylibmc==1.2.3
 python-dateutil==2.2
 pytz==2013.7
 rauth==0.4.17
-requests==1.1.0
+requests==2.20.0
 six==1.4.1
 stripe==1.7.8
 wsgiref==0.1.2
